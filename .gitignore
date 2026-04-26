@@ -1,0 +1,10 @@
+build/
+bsps/
+libs/
+deps/
+.ninja_log
+.mtbqueryapi
+*.o
+*.elf
+*.hex
+*.map
