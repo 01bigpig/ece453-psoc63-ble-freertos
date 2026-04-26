@@ -18,6 +18,7 @@ libs/
 
 # ModusToolbox Configurator generated code and lock file
 GeneratedSource/
+!config/GeneratedSource/
 *.lock
 .mtbqueryapi
 
